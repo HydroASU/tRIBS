@@ -31,13 +31,13 @@ distributed model of hydrologic processes.
    Main hydrologic processes.
 
 What type of processes does tRIBS model?
-_____________
+_________________________________________
 
-The tRIBS model description can be found in [Ivanov et al. 2004a]_, [Ivanov et al. 2004b]_ and [Vivoni et al. 2004]_
+The tRIBS model description can be found in [Ivanov et al. 2004a]_,
 .. [Ivanov et al. 2004a] Ivanov, V.Y., Vivoni, E.R., Bras, R.L. and Entekhabi, D. 2004a. Catchment Hydrologic Response with a Fully-Distributed Triangulated Irregular Network Model. Water Resources Research. 40(11): W11102.
-
+[Ivanov et al. 2004b]_ 
 .. [Ivanov et al. 2004b] Ivanov, V.Y., Vivoni E.R., Bras, R.L. and Entekhabi, D. 2004b. Preserving high-resolution surface and rainfall data in operational-scale basin hydrology: A fully-distributed, physically-based approach. Journal of Hydrology. 298(1-4): 80-111
-
+ and [Vivoni et al. 2004]_
 .. [Vivoni et al. 2004] Vivoni, E. R., Ivanov, V. Y., Bras, R. L., & Entekhabi, D. (2004). Generation of triangulated irregular networks based on hydrological similarity. Journal of Hydrologic Engineering, 9(4), 288–302. 
 
 - Couple the vadose and saturated zones with the dynamic water table.
@@ -49,9 +49,10 @@ The tRIBS model description can be found in [Ivanov et al. 2004a]_, [Ivanov et a
 - Hydrologic and hydraulic routing.
 - other.
 
+-------------------------------------------
 Last Update
 +++++++++++
-CLizarraga 10/04/2020
+C Lizarraga, 10/04/2020
 
    
 
