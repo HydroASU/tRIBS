@@ -34,6 +34,18 @@ _________________________________________
 
 The *tRIBS* model description can be found in [Ivanov et al. 2004a]_, [Ivanov et al. 2004b]_  and [Vivoni et al. 2004]_.
 
+We mention a few *tRIBS* processes it models:
+
+- Couple the vadose and saturated zones with the dynamic water table.
+- Moisture infiltration waves.
+- Soil moisture redistribution.
+- Topography-driven lateral fluxes in the vadose and groundtable zones.
+- Computes the radiation and energy balance.
+- Interception, evaporation and evpotrasnpiration.
+- Hydrologic and hydraulic routing.
+- other.
+
+
 .. [Ivanov et al. 2004a] Ivanov, V.Y., Vivoni, E.R., Bras, R.L.
    and Entekhabi, D. 2004a. Catchment Hydrologic
    Response with a Fully-Distributed Triangulated
@@ -52,19 +64,9 @@ The *tRIBS* model description can be found in [Ivanov et al. 2004a]_, [Ivanov et
    irregular networks based on hydrological similarity.
    Journal of Hydrologic Engineering, 9(4), 288–302.
 
-We mention a few *tRIBS* processes it models:
-
-- Couple the vadose and saturated zones with the dynamic water table.
-- Moisture infiltration waves.
-- Soil moisture redistribution.
-- Topography-driven lateral fluxes in the vadose and groundtable zones.
-- Computes the radiation and energy balance.
-- Interception, evaporation and evpotrasnpiration.
-- Hydrologic and hydraulic routing.
-- other.
-
 
 -------------------------------------------
+
 Last Update
 +++++++++++
 C Lizarraga, 10/04/2020
