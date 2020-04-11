@@ -32,7 +32,7 @@ distributed model of hydrologic processes.
 What type of processes does tRIBS model?
 _________________________________________
 
-The *tRIBS* model description can be found in [Ivanov et al. 2004a]_, [Ivanov et al. 2004b]_
+The *tRIBS* model description can be found in [Ivanov2004a]_, [Ivanov et al. 2004b]_
 and [Vivoni et al. 2004]_.
 
 We mention a few *tRIBS* processes it models:
@@ -47,7 +47,7 @@ We mention a few *tRIBS* processes it models:
 - other.
 
 
-.. [Ivanov et al. 2004a] Ivanov, V.Y., Vivoni, E.R., Bras, R.L. and Entekhabi, D. 2004a. Catchment Hydrologic
+.. [Ivanov2004a] Ivanov, V.Y., Vivoni, E.R., Bras, R.L. and Entekhabi, D. 2004a. Catchment Hydrologic
    Response with a Fully-Distributed Triangulated Irregular Network Model. Water Resources Research. 40(11): W11102.
 
 .. [Ivanov et al. 2004b] Ivanov, V.Y., Vivoni E.R., Bras, R.L. and Entekhabi, D. 2004b. Preserving high-resolution
