@@ -32,8 +32,7 @@ distributed model of hydrologic processes.
 What type of processes does tRIBS model?
 _________________________________________
 
-The *tRIBS* model description can be found in [Ivanov2004a]_, [Ivanov et al. 2004b]_
-and [Vivoni et al. 2004]_.
+The *tRIBS* model description can be found in [Ivanov_2004a]_, [Ivanov_2004b]_ and [Vivoni_2004]_.
 
 We mention a few *tRIBS* processes it models:
 
@@ -47,14 +46,14 @@ We mention a few *tRIBS* processes it models:
 - other.
 
 
-.. [Ivanov2004a] Ivanov, V.Y., Vivoni, E.R., Bras, R.L. and Entekhabi, D. 2004a. Catchment Hydrologic
+.. [Ivanov_2004a] Ivanov, V.Y., Vivoni, E.R., Bras, R.L. and Entekhabi, D. 2004a. Catchment Hydrologic
    Response with a Fully-Distributed Triangulated Irregular Network Model. Water Resources Research. 40(11): W11102.
 
-.. [Ivanov et al. 2004b] Ivanov, V.Y., Vivoni E.R., Bras, R.L. and Entekhabi, D. 2004b. Preserving high-resolution
+.. [Ivanov_2004b] Ivanov, V.Y., Vivoni E.R., Bras, R.L. and Entekhabi, D. 2004b. Preserving high-resolution
    surface and rainfall data in operational-scale basin hydrology: A fully-distributed, physically-based
    approach. Journal of Hydrology. 298(1-4): 80-111
 
-.. [Vivoni et al. 2004] Vivoni, E. R., Ivanov, V. Y., Bras, R. L. & Entekhabi, D. (2004). Generation of triangulated
+.. [Vivoni_2004] Vivoni, E. R., Ivanov, V. Y., Bras, R. L. & Entekhabi, D. (2004). Generation of triangulated
    irregular networks based on hydrological similarity.Journal of Hydrologic Engineering, 9(4), 288–302.
 
 
