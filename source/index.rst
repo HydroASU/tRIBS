@@ -26,7 +26,7 @@ The TIN-based Real-time Integrated Basin SImulator (tRIBS), is fully
 distributed model of hydrologic processes.
 
 .. figure::  images/hydrocycle.png
-   :align:   center
+   :align:   left
 
    Main hydrologic processes.
 
