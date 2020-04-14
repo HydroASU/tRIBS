@@ -79,5 +79,5 @@ We mention a few *tRIBS* processes it models:
 *Last update:* 
 Carlos Lizarraga, 14/04/2020
 
-.. figure:: images/cc-by-nc-sa.png
+.. figure:: images/by-nc-sa.png
    :align: right	    
