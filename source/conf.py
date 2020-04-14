@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'tRIBS Docs'
-copyright = 'GPL v3.0 2020'
+copyright = 'CC BY-NC-SA International 4.0'
 author = 'Enrique Vivoni, Giuseppe Mascaro, Carlos Lizarraga, ...'
 
 # The full version, including alpha/beta/rc tags

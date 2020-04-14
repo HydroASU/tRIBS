@@ -75,15 +75,12 @@ We mention a few *tRIBS* processes it models:
 
 -------------------------------------------
 
-.. figure:: images/by-nc-sa.png
-	    :align: left
-		    
-	    `Creative Commons: Attribution-NonComercial-ShareAlike International 4.0
-	    <https://creativecommons.org/licenses/by-nc-sa/4.0/ />`_
-
 	    
 *Last update:* 
 Carlos Lizarraga, 14/04/2020
+
+`Creative Commons: Attribution-NonComercial-ShareAlike International 4.0
+	    <https://creativecommons.org/licenses/by-nc-sa/4.0/ />`_
 
    
 
