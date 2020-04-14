@@ -19,14 +19,19 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
+
+.. contents:: Table of Contents
+   :depth: 2
+   - :ref: 'Introduction'
+  
 Distributed Hydrologic Model *tRIBS*
 =====================================
 
-The **TIN-based Real-time Integrated Basin SImulator (tRIBS)**, is fully
+The **TIN-based Real-time Integrated Basin Simulator (tRIBS)**, is fully
 distributed model of hydrologic processes.
 
 .. figure::  images/hydrocycle.png
-   :align:   left
+   :align:   center
 
 
 What type of processes does tRIBS model?
@@ -59,9 +64,8 @@ We mention a few *tRIBS* processes it models:
 
 -------------------------------------------
 
-Last Update
-+++++++++++
 
+*Last update:* 
 Carlos Lizarraga, 10/04/2020
 
    
