@@ -6,14 +6,13 @@
 .. toctree::
    :maxdepth: 2
    :caption: Contents
-	     Introduction
-	     ModelDesign
-	     ModelFileStructure
-	     ModelClassDiagrams
-	     ModelWorkFlowDiagrams
-	     ComputationalMesh
-
-
+   Introduction
+   ModelDesign
+   ModelFileStructure
+   ModelClassDiagrams
+   ModelWorkFlowDiagrams
+   ComputationalMesh
+ 
 
 
 Welcome to tRIBS Documentation!
