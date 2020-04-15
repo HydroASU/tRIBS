@@ -3,14 +3,20 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to tRIBS Documentation!
-======================================
-
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
 
+.. contents:: Table of Contents
+   :depth: 2
+   :local:
+   :backlinks: "entry"    
+
+
+Welcome to tRIBS Documentation!
+======================================
+	       
 
 Indices and tables
 ==================
@@ -20,11 +26,6 @@ Indices and tables
 * :ref:`search`
 
 
-.. contents:: Table of Contents
-   :depth: 2
-   :local:
-   :backlinks: "entry"    
-  
 Distributed Hydrologic Model *tRIBS*
 =====================================
 
@@ -79,5 +80,5 @@ We mention a few *tRIBS* processes it models:
 *Last update:* 
 Carlos Lizarraga, 14/04/2020
 
-.. figure:: images/by-nc-sa.png
-   :align: right	    
+.. figure:: images/by-nc-sa_simple.png
+   :align: left	    
