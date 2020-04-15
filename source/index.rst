@@ -5,13 +5,15 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Contents
+	     Introduction
+	     ModelDesign
+	     ModelFileStructure
+	     ModelClassDiagrams
+	     ModelWorkFlowDiagrams
+	     ComputationalMesh
 
 
-.. contents:: Table of Contents
-   :depth: 2
-   :local:
-   :backlinks: "entry"    
 
 
 Welcome to tRIBS Documentation!
@@ -38,6 +40,10 @@ on how to download, compile, set up and run tRIBS. In addition, an effort has be
 the model software design using class and workflow diagrams. This guide assumes that the reader is
 familiar with the capabilities of the tRIBS Model and its intended purposes. More information
 concerning the model can be obtained through the tRIBS Research Description and Publication List. 
+
+.. math::
+
+    y \sim \mathcal{N}(0, 1)
 
 The **TIN-based Real-time Integrated Basin Simulator (tRIBS)**, is fully
 distributed model of hydrologic processes.
@@ -80,5 +86,3 @@ We mention a few *tRIBS* processes it models:
 *Last update:* 
 Carlos Lizarraga, 14/04/2020
 
-.. figure:: images/by-nc-sa_simple.png
-   :align: left	    
