@@ -1,0 +1,50 @@
+<html>
+
+  <body>
+
+
+How To Use This Module
+======================
+(See the individual classes, methods, and attributes for details.)
+
+1. Import it: ``import statemachine`` or ``from statemachine import ...``.
+   You will also need to ``import re``.
+
+2. Derive a subclass of `State` (or `StateWS`) for each state in your state
+   machine::
+
+       class MyState(statemachine.State):
+
+   Within the state's class definition:
+
+   a) Include a pattern for each transition, in `State.patterns`::
+
+          patterns = {'atransition': r'pattern', ...}
+
+   b) Include a list of initial transitions to be set up automatically, in
+      `State.initial_transitions`::
+
+          initial_transitions = ['atransition', ...]
+
+   c) Define a method for each transition, with the same name as the
+      transition pattern::
+
+          def atransition(self, match, context, next_state):
+              # do something
+              result = [...]  # a list
+              return context, next_state, result
+              # context, next_state may be altered
+
+      Transition methods may raise an `EOFError` to cut processing short.
+
+
+
+
+
+    </body>
+
+
+
+
+
+  </html>
