@@ -62,3 +62,14 @@ html_theme = 'alabaster'
 html_static_path = ['_static']
 
 master_doc = 'index'
+
+html_sidebars = {
+        '**': [
+                 'localtoc.html',
+                 'relations.html',
+                 'searchbox.html',
+                 # located at _templates/
+                 'installation.rst',
+            ]
+
+        }
