@@ -69,7 +69,7 @@ html_sidebars = {
                  'relations.html',
                  'searchbox.html',
                  # located at _templates/
-                 'installation.html',
+                 'foo.html',
             ]
 
         }
